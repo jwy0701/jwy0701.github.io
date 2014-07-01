@@ -1,5 +1,5 @@
 ---
-layout: defaoult
+layout: default
 title: Ethan Yoon FB
 PermaLink: fb/
 ---
