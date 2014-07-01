@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Facebook
+title: About Me
 permalink: /aboutme/
 ---
 # My Information
