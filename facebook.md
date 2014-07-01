@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Facebook
-Permalink: /fb/
+Permalink: /face/
 ---
 # My Information
 [Facebook](https://facebook.com/jwy88)
