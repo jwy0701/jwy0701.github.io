@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Facebook
-permalink: /fb/
+permalink: /aboutme/
 ---
 # My Information
 
-[Facebook](https://facebook.com/jwy88)
+### Welcome !
