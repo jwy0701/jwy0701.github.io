@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Ethan Yoon
-PermaLink: fb/
+Permalink: /fb/
 ---
-[Facebook](https://www.facebook.com/jwy88)
+[Facebook](https://facebook.com/jwy88)
