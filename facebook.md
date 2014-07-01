@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ethan Yoon
+title: Facebook
 Permalink: /fb/
 ---
 # My Information
